@@ -7,7 +7,7 @@ class FizzBuzz {
         redone();
     }
 
-    private static void redone() {
+    public static void redone() {
         int i = 1;
         while (i < 100) {
 
